@@ -1,0 +1,103 @@
+### next entry ###
+TipiWiki has it\'s own Markup different from others.
+### next entry ###
+TipiWiki has it\'s own Markup different from others.
+
+! Simple Markup
+
+* One Star before and after makes it *emphasized* *
+### next entry ###
+TipiWiki has it\'s own Markup different from others.
+
+! Simple Markup
+
+* One star before and after makes it *emphasized*: *
+* Two stars make it **strong**: **
+### next entry ###
+TipiWiki has it\'s own Markup different from others.
+
+! Simple Markup
+
+* one star before and after makes it *emphasized*
+* two stars make it **strong**
+* one, two or three equal signs = at the beginning of a line make it a headline
+* a sidenote is made by double square brackets [[]]
+* internal links are made by WikiWords or with square brackets []
+* external links are square brackets with an URL (Unified Resource Locator) as first word in single brackets: [url link text]
+### next entry ###
+TipiWiki has it\'s own Markup different from others.
+
+! Simple Markup
+
+* one star before and after makes it *emphasized*
+* two stars make it **strong**
+* an abbreviation or acronym can be explain by putting the description in parenthesis behind it
+* superscript is done by ^ () like ^(this)
+* subscript by _ () like _(this)
+* one, two or three equal signs = at the beginning of a line make it a headline
+* a sidenote is made by double square brackets [[]] like [[this]]
+* internal links are made by WikiWords or with square brackets []
+* external links are square brackets with an URL (Unified Resource Locator) as first word in single brackets: [url link text]
+### next entry ###
+TipiWiki has it\'s own Markup different from others.
+
+== simple markup
+
+* one star before and after makes it *emphasized*
+* two stars make it **strong**
+* an abbreviation or acronym can be explain by putting the description in parenthesis behind it
+* superscript is done by ^ () like ^(this)
+* subscript by _ () like _(this)
+* one, two or three equal signs = at the beginning of a line make it a headline
+* a sidenote is made by double square brackets [[]]
+* internal links are made by WikiWords or with square brackets []
+* external links are square brackets with an URL (Unified Resource Locator) as first word in single brackets: [url link text]
+* --- at the beginning of a line make a horizontal bar
+
+--- bar
+
+== longer markup
+
+* lists are done via *
+* numbered lists via #
+### next entry ###
+TipiWiki has it\'s own Markup different from others.
+
+== simple markup
+
+* one star before and after makes it *emphasized*
+* two stars make it **strong**
+* an abbreviation or acronym can be explain by putting the description in parenthesis behind it
+* superscript is done by ^ () like ^(this)
+* subscript by _ () like _(this)
+* one, two or three equal signs = at the beginning of a line make it a headline
+* a sidenote is made by double square brackets [[]]
+* internal links are made by WikiWords or with square brackets []
+* external links are square brackets with an URL (Unified Resource Locator) as first word in single brackets: [url link text]
+* an image url in square brackets embeds the image into the page
+* --- at the beginning of a line make a horizontal bar
+
+== longer markup
+
+* lists are done via *
+* numbered lists via #
+* a block quote can be made by packing the quote in quotation marks and putting the source behind, seperated by a minus
+\"often it\'s best to just view the example in the SandBox\" - AndreasZwinkau
+### next entry ###
+TipiWiki has it\'s own Markup different from others.
+
+* one star before and after makes it *emphasized*
+* two stars make it **strong**
+* an abbreviation or acronym can be explain by putting the description in parenthesis behind it
+* superscript is done by ^ () like ^(this)
+* subscript by _ () like _(this)
+* one, two or three equal signs = at the beginning of a line make it a headline
+* a sidenote is made by double square brackets [[]]
+* internal links are made by WikiWords or with square brackets []
+* external links are square brackets with an URL (Unified Resource Locator) as first word in single brackets: [url link text]
+* an image url in square brackets embeds the image into the page
+* --- at the beginning of a line make a horizontal bar
+* lists are done via *
+* numbered lists via #
+* a block quote can be made by packing the quote in quotation marks and putting the source behind, seperated by a minus
+\"often it\'s best to just view the example in the SandBox\" - Andi

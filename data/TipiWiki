@@ -1,0 +1,15 @@
+TipiWiki is a Wiki, which is aimed to be
+* standard compliant
+* simple
+* small
+* easy
+TipiWiki will never get such features as user authentification, WYSIWYG, database support or uploads. There are other wikis with such features out there. Some cool people even extended TipiWiki with such features.
+### next entry ###
+TipiWiki is a Wiki, which is aimed to be
+
+* **standard compliant** to XHTML 1.0
+* **simple** to understand, use and hack
+* **small** on requirements and size
+* **easy** for users and developers
+
+TipiWiki will never get such features as user authentification, WYSIWYG, database support or uploads. There are other wikis with such features out there. Some cool people even extended TipiWiki with such features.

@@ -1,0 +1,53 @@
+Mozillas sends some wierd characters sometimes. I don\'t know yet, why and when, so this bug is still unsolved.
+
+Take a look at SecurityRelated things!
+### next entry ###
+Mozillas sends some wierd characters sometimes. I don't know yet, why and when, so this bug is still unsolved.
+
+Take a look at SecurityRelated things!
+
+! Revisions
+
+How to handle revisions? Or better: How to handle old versions?
+
+The current TipiWiki Release uses files with an appended date to save old versions. This hacked TipiWiki writes the different versions in the same file and thus, has to read all versions just to display the latest.
+### next entry ###
+\"PHP is a horrid language that I never want to have to do any development with ever again. Unfortunately, there are really no alternatives available that are widely deployed on shared hosts.\" - [http://keithdevens.com/weblog/archive/2003/Aug/13/HATE-PHP Keith Devens]
+
+I fully and sadly agree. PHP is one reason why i don\'t want to make TipiWiki bigger and greater. 
+
+= design decisions
+
+== security
+
+TipiWiki doesn\'t care much about security. The page directory needs to be write- and readable to the webserver.
+
+There is nothing to secure. If you want to prevent some pages from being changed, you can take away the files write permission manually.
+
+== revisions
+
+TipiWiki *does* save old revisions of pages, but they are not accessable from the web.
+
+Mostly because of spam it is necessary to save older revisions, but building them into the interface would make it twice as complicated. My solution is just to append new version to the page file and to extract the last page on each view.
+### next entry ###
+\"PHP is a horrid language that I never want to have to do any development with ever again. Unfortunately, there are really no alternatives available that are widely deployed on shared hosts.\" - [http://keithdevens.com/weblog/archive/2003/Aug/13/HATE-PHP Keith Devens]
+
+I fully and sadly agree. PHP is one reason why i don\'t want to make TipiWiki bigger and greater. 
+
+= design decisions
+
+== hackability
+
+Don\'t like the markup language? Just edit the code, it\'s just a preg_replace. TipiWiki is (hopefully) very easy to hack and adjustable to your needs, if you\'re not afraid of PHP. This is partly lazyness on my side, partly to be nice to beginners.
+
+== security
+
+TipiWiki doesn\'t care much about security. The page directory needs to be write- and readable to the webserver.
+
+There is nothing to secure. If you want to prevent some pages from being changed, you can take away the files write permission manually.
+
+== revisions
+
+TipiWiki *does* save old revisions of pages, but it doesn\'t show.
+
+Mostly because of spam it is necessary to save older revisions. My solution is just to append new version to the page file and to extract the last page on each view. Integrating revision control into the interface would make it twice as complicated, so no.

@@ -1,0 +1,12 @@
+### next entry ###
+= not yet asked questions
+
+== Why must the data directory be *executable*?
+
+To get a directory listing under UNIX you need execute permissions. TipiWiki uses this function when you go to AllPages for example.
+
+== Why yet another Wiki?
+
+Two reasons:
+# i found nothing which really suited my needs
+# making a wiki is easy

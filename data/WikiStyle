@@ -1,0 +1,36 @@
+TipiWiki tries to be as standard-compliant as possible or as far as there is a standard. So here are the commands to use here.
+!! Text formatting
+* One * before a line puts bullet in front of it, like in this bulleted list
+* One ! is <h1> - a big headline
+* Two !! is <h2> - smaller headline
+* Three !!! is <h3> - smallest headline
+* Two * before and after something makes it **bold**
+* Two \' before and after something makes it \'\'italic\'\' 
+* One vertical bar before and after something put a |box around|
+
+Don\'t be afraid to click on edit, to see how this page is formatted
+!! Links
+* Normally you should use WikiWords, which are characterized by the lacking whitespace between. The will be made links to other pages in this Wiki.
+* If you want to link to something external, you could  just type the url and if it is valid, it will be clickable
+* to make external links more beautiful, there is another version [valid url|link] can be used to create something [http://slashdot.org|like that]
+* another __new__ feature is picture linking. If you put the url to a picture between such [ ] brackets, the image will be displayed. For example the logo below
+[http://tipiwiki.sourceforge.net/logo.png]
+!! special pages
+* RecentChanges could be every page just insert a \'\'< recentchanges >\'\' (without the whitespaces) and there the RecentChanges will be inserted
+* FindPage is the same with < findpage >
+* AllPages, too. < allpages > does the magic
+
+!!Underlines
+It is possible and implemented to format something as underlined with __ underscores. This will result in **invalid XHTML**. The <u> tag was deprecated, because people mistake underlined with links. Better you don\'t use it.
+### next entry ###
+To learn about TipiWiki you should [http://samwise.mshome.net/~beza1e1/tipiwiki3/index.php?wiki=SandBox&edit=True edit the SandBox]!
+### next entry ###
+To learn about TipiWiki you should [http://samwise.mshome.net/~beza1e1/tipiwiki3/index.php?wiki=SandBox&edit=True edit the SandBox] and look at TipiWikiMarkup.
+
+Are nearly as versatile as sheet of paper including the lack of features. So it is up to you, what becomes of this Wiki.
+### next entry ###
+The first step is to InstallTipiWiki.
+
+To learn about TipiWiki you should [http://samwise.mshome.net/~beza1e1/tipiwiki3/index.php?wiki=SandBox&edit=True edit the SandBox] and look at TipiWikiMarkup.
+
+Are nearly as versatile as sheet of paper including the lack of features. So it is up to you, what becomes of this Wiki.

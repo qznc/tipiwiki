@@ -1,0 +1,46 @@
+body, textarea { font: 110% "Trebuchet MS", Trebuchet, sans-serif; }
+h1 {
+    font-size: 1em;
+}
+a { color: #f50; text-decoration: none; }
+a:visited { color: black; text-decoration: underline;  }
+a:hover { text-decoration: underline; }
+
+.sidenote {display: block; float: right; border: 0.3em solid #aaa; padding: 0.6em 0.4em;}
+
+#wikicontrols {
+	margin: 1em;
+    font-size: 0.8em;
+}
+#wikicontrols a {
+	color: #000;
+	text-decoration: none;
+    font-weight: bold;
+    margin: 1em;
+}
+#wikicontrols a:hover {
+	color: #f50;
+}
+#wikicontrols div.search {
+    display: inline;
+    margin-left: auto;
+    text-align: right;
+}
+
+#content {
+    width: 36em;
+    margin: 2em auto;
+}
+
+#wikicontent pre {
+	border: 1px solid #eee;
+	background-color: #fff;
+	padding: 2px 5px;
+	font-family: monospace;
+}
+
+#footer {
+    text-align: center;
+	font-size: 0.7em;
+}
+
